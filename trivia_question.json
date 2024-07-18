@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+            "1": "Venus",
+            "2": "Jupiter",
+            "3": "Saturn",
+            "4": "Mars"
+        },
+        "correct_answer": "4",
+        "category": "Astronomy",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which planet is known as the 'Morning Star'?",
+        "options": {
+            "1": "Venus",
+            "2": "Mars",
+            "3": "Jupiter",
+            "4": "Mercury"
+        },
+        "correct_answer": "1",
+        "category": "Astronomy",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "options": {
+            "1": "Titan",
+            "2": "Europa",
+            "3": "Ganymede",
+            "4": "Callisto"
+        },
+        "correct_answer": "1",
+        "category": "Astronomy",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": {
+            "1": "Blue whale",
+            "2": "African elephant",
+            "3": "Giraffe",
+            "4": "Hippopotamus"
+        },
+        "correct_answer": "1",
+        "category": "Biology",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of these is not a fruit?",
+        "options": {
+            "1": "Apple",
+            "2": "Carrot",
+            "3": "Banana",
+            "4": "Orange"
+        },
+        "correct_answer": "2",
+        "category": "Biology",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": {
+            "1": "Heart",
+            "2": "Liver",
+            "3": "Brain",
+            "4": "Skin"
+        },
+        "correct_answer": "4",
+        "category": "Biology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the hardest known natural material?",
+        "options": {
+            "1": "Gold",
+            "2": "Iron",
+            "3": "Diamond",
+            "4": "Platinum"
+        },
+        "correct_answer": "3",
+        "category": "Geology",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the main component of the Earth's core?",
+        "options": {
+            "1": "Nickel",
+            "2": "Iron",
+            "3": "Gold",
+            "4": "Uranium"
+        },
+        "correct_answer": "2",
+        "category": "Geology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the deepest part of the ocean called?",
+        "options": {
+            "1": "Mariana Trench",
+            "2": "Challenger Deep",
+            "3": "Tonga Trench",
+            "4": "Philippine Trench"
+        },
+        "correct_answer": "2",
+        "category": "Geology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": {
+            "1": "50°C",
+            "2": "100°C",
+            "3": "150°C",
+            "4": "200°C"
+        },
+        "correct_answer": "2",
+        "category": "Physics",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": {
+            "1": "299,792,458 meters per second",
+            "2": "583,261,093 meters per second",
+            "3": "172,650,839 meters per second",
+            "4": "407,258,316 meters per second"
+        },
+        "correct_answer": "1",
+        "category": "Physics",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "options": {
+            "1": "Tungsten",
+            "2": "Carbon",
+            "3": "Platinum",
+            "4": "Titanium"
+        },
+        "correct_answer": "1",
+        "category": "Physics",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": {
+            "1": "Atlantic Ocean",
+            "2": "Indian Ocean",
+            "3": "Arctic Ocean",
+            "4": "Pacific Ocean"
+        },
+        "correct_answer": "4",
+        "category": "General Knowledge",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+            "1": "Go",
+            "2": "Gd",
+            "3": "Au",
+            "4": "Ag"
+        },
+        "correct_answer": "3",
+        "category": "General Knowledge",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": {
+            "1": "Won",
+            "2": "Yuan",
+            "3": "Yen",
+            "4": "Ringgit"
+        },
+        "correct_answer": "3",
+        "category": "General Knowledge",
+        "difficulty": "hard"
+    }
+]
