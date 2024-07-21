@@ -1,5 +1,3 @@
-Absolutely, here is some text you can use for the readme in the parent git for this Python code:
-
 **Trivia Game**
 
 This Python code implements a trivia game that can be played by multiple players. Questions are loaded from a JSON file and can be categorized by difficulty.
